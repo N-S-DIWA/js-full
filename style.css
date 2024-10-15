@@ -1,0 +1,11 @@
+button{
+    color: white;
+    background-color: black;
+}
+div{
+    color: white;
+    background-color: black;
+    width: 40px;
+    height: 30px;
+    border: 1px solid rgb(0, 0, 0);
+}
